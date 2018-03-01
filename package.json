@@ -1,0 +1,21 @@
+{
+  "name": "vue-focus-engine",
+  "version": "0.0.1",
+  "description": "a simple TV focus engine plugin for vue. Based on alibaba's FocusEngine.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsukid/vue-focus-engine.git"
+  },
+  "keywords": [
+    "TV",
+    "focus",
+    "vue"
+  ],
+  "author": "hsukid",
+  "license": "MIT",
+  "homepage": "https://github.com/hsukid/vue-focus-engine#readme"
+}
