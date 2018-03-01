@@ -1,5 +1,5 @@
 # vue-focus-engine
-一个基于阿里FocusEngine.js的vue插件，用于实现<strong>单页面应用</strong>中的焦点管理
+一个基于阿里FocusEngine.js的vue插件，用于实现电视端/OTT端<strong>单页面应用</strong>中的焦点管理。
 
 ## 关于FocusEngine
 在使用插件之前，需要先了解原生FocusEngine.js的接口和规范。文档见<a href="http://developer.tv.yunos.com/example/fe/01-focus-manager.html#FocusEngine-1">Focus Engine（焦点引擎）介绍</a>
